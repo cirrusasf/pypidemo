@@ -8,7 +8,7 @@ setup(
   author = 'Jiang Zhu',                   # Type in your name
   author_email = 'your.email@domain.com',      # Type in your E-Mail
   url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/cirrusasf/pypidemo/archive/refs/tags/v0.1-alpha.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/cirrusasf/pypidemo/archive/refs/tags/v0.1.2-alpha.tar.gz',    # I explain this later on
   keywords = ['demo', 'pypi', 'packing'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'netCDF4',
